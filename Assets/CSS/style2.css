@@ -200,6 +200,13 @@ header h2 {
   display: none;
 }
 
+footer {
+  background: rgb(54, 119, 129);
+  width: 100%;
+  padding: 10px 35px;
+  color: var(--light-color);
+}
+
 /* RWD min-width 500px */
 @media only screen and (min-width: 500px) {
   .recipe {
